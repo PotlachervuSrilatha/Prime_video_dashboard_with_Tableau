@@ -1,4 +1,3 @@
-# Prime_video_dashboard_with_Tableau
 # Analysis on Amazon Prime Videos Using Tableau
 # Introduction
 Amazon Prime Video, a popular streaming service with over 200 million global subscribers, offers an extensive collection of movies, TV shows, and original content. In this captivating analysis using Tableau, I delved into the realm of Amazon Prime Video to gain valuable insights into its content library, user engagement, and viewer preferences.
@@ -14,7 +13,7 @@ The analysis is based on the "Amazon Prime Movies and TV Shows" dataset sourced 
 
 # Tableau Project Dashboard Link
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Explore the dynamic Tableau dashboards and intriguing visualizations of this analysis on Amazon Prime Videos: [Tableau Project Dashboard Link]
+Explore the dynamic Tableau dashboards and intriguing visualizations of this analysis on Amazon Prime Videos: [[Tableau Project Dashboard Link]](https://public.tableau.com/views/primedashboard_17056456472070/PrimeVideodashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # Results and Recommendations
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
